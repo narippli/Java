@@ -1,7 +1,7 @@
 /*
 08/10/2022
 Per Schloas Demo Mutable Class
-created by nancy Ripplinger
+created by Nancy Ripplinger
 */
 public class MutableExample {  
     private String s;  
